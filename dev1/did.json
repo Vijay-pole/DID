@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:Vijay-pole.github.io:DID:dev1#key-0"
+    "did:web:vijay-pole.github.io:DID:dev1#key-0"
   ],
   "service": [],
-  "id": "did:web:Vijay-pole.github.io:DID:dev1",
+  "id": "did:web:vijay-pole.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkwgH2uRu67TR25QdXDomCeNEn1LSJb4GmZ7TaFpXMUF2n",
-      "controller": "did:web:Vijay-pole.github.io:DID:dev1",
-      "id": "did:web:Vijay-pole.github.io:DID:dev1#key-0",
+      "publicKeyMultibase": "z6Mkh4V8mH7EGsk2PT3aR3SExyDPdFoEt3ZigoS1qAjwjaTs",
+      "controller": "did:web:vijay-pole.github.io:DID:dev1",
+      "id": "did:web:vijay-pole.github.io:DID:dev1#key-0",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:Vijay-pole.github.io:DID:dev1#key-0"
+    "did:web:vijay-pole.github.io:DID:dev1#key-0"
   ]
 }
