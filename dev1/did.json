@@ -6,7 +6,7 @@
   "id": "did:web:vijay-pole.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkunh5gCsj1EfdjoVKhd7m9pa2d5d9pPZ5sqvbgRVx7L3P",
+      "publicKeyMultibase": "z6Mkjy1Mui4JF46FNfMcHemfPTJ7KJsfHZekCaRZf9ye48tB",
       "controller": "did:web:vijay-pole.github.io:DID:dev1",
       "id": "did:web:vijay-pole.github.io:DID:dev1#key-0",
       "type": "Ed25519VerificationKey2020",
